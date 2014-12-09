@@ -1,0 +1,21 @@
+{
+  "name": "mis-compras-card-affiliates",
+  "version": "0.1.0",
+  "description": "Businesses that accept the \"Mis compras\" card (by \"Sí Vale México\")",
+  "keywords": [
+    "si vale",
+    "mis compras",
+    "mexico"
+  ],
+  "license": "MIT",
+  "author": "Alejandro Beltrán",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alebelcor/mis-compras-card-affiliates.git"
+  },
+  "dependencies": {
+    "cheerio": "^0.18.0",
+    "request-promise": "^0.3.2"
+  },
+  "private": true
+}
