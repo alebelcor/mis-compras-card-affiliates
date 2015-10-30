@@ -1,6 +1,9 @@
-# "Mis Compras" card affiliates
+# [DEPRECATED] "Mis Compras" card affiliates
 
 > Businesses that accept the "Mis compras" card (by "[Sí Vale México](http://sivale.mx)")
+
+**Unless they provide an API (very unlikely) you should use their
+[awful search](http://www.sivale.mx/busqueda_afiliados/mis_compras/) instead**
 
 ## Getting started
 
@@ -12,7 +15,7 @@ Run `node convert.js` to fetch the latest affiliates.
 
 ## Credit
 
-Inspired by [`norway-postal-codes`](https://github.com/sindresorhus/norway-postal-codes)
+Inspired by [norway-postal-codes](https://github.com/sindresorhus/norway-postal-codes)
 
 ## License
 
